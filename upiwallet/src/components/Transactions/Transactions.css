@@ -1,0 +1,38 @@
+/* .transactions-container{
+    display: flex;
+    flex-direction: column;
+    padding-left: 700px;
+    padding-top: 100px;
+} */
+.transactions-container h1{
+    padding-left: 800px;
+    padding-top: 60px;
+}
+.transactions-container .actions{
+    padding-left: 700px;
+}
+.transactions-container .transaction-form h2{
+    padding-left: 800px;
+}
+.transactions-container .transaction-form input{
+    width: 900px;
+    height: 50px;
+    margin-left: 100px;
+    margin: 20px;
+    font-size: 25px;
+    background-color: rgb(236, 228, 228);
+}
+.transactions-container .transaction-form select{
+    width: 900px;
+    height: 60px;
+    margin-left: 100px;
+    margin: 20px;
+    font-size: 25px;
+    background-color: rgb(236, 228, 228);
+}
+.transactions-container .transaction-form .form-buttons{
+    padding-left: 700px;
+}
+.transactions-container .transactions-table h2{
+    padding-left: 800px;
+}

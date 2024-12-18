@@ -1,0 +1,28 @@
+.wallet h2{
+    padding-left: 100px;
+    padding-top: 60px;
+    font-size: 30px;
+}
+.wallet input{
+    width: 900px;
+    height: 50px;
+    margin-left: 100px;
+    margin: 20px;
+    font-size: 25px;
+    background-color: rgb(236, 228, 228);
+}
+.wallet select{
+    width: 900px;
+    height: 50px;
+    margin-left: 100px;
+    margin: 20px;
+    font-size: 25px;
+    background-color: rgb(236, 228, 228);
+}
+.wallet button{
+    display: block;
+    margin-left: 800px;
+}
+.wallet #Transactions h3{
+    padding-left: 100px;
+}
